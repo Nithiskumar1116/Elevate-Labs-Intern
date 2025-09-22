@@ -44,11 +44,3 @@ df['BMI'] = df['BMI'].astype(float)
 7) SAVE THE CLEANED DATA SET
 
 save as a cleaned_data.csv
-
-
-⚡ Tip: You can reuse this notebook for any dataset—just replace the file name.
-
-
----
-
-👉 Do you want me to make this into a ready-to-download README.md file with all formatting (Markdown), so you can directly upload it to GitHub?
